@@ -1,0 +1,2 @@
+# Statistical Case-Study on Learners Engagements in MOOCs
+In this project, we are going to go through a statistical case study that was done over a real-life dataset of learners' engagement behavior in MOOCs. In the study, we will see how the learners' genders, countries' Human Development Index (HDI), and socioeconomic status can affect the engagement behavior of the learners through a vareity of statistical techniques including a survival analysis. We found that users who engaged the most in the MOOC were learners from countries with very high HDI.
